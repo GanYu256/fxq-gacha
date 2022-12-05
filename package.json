@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "inquirer": "^9.1.4",
+    "node-fetch": "^2.6.0",
+    "node-xlsx": "^0.21.0"
+  },
+  "devDependencies": {
+    "chalk": "^5.1.2"
+  }
+}
